@@ -1,5 +1,5 @@
 <template>
-	<view>
+	<view mode="test">
 		我的
 	</view>
 </template>
